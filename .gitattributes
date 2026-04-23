@@ -1,4 +1,3 @@
-*.hhmd.md linguist-language=text
 *.hhmd.md linguist-documentation=false
 *.hhmd.md linguist-vendored=true
 *.hhmd.md linguist-language=markdown-inline
