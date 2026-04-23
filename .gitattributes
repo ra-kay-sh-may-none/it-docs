@@ -1,4 +1,4 @@
-*.hhmd.md linguist-documentation=false
-*.hhmd.md linguist-vendored=true
-*.hhmd.md linguist-language=text
-*.hhmd.md linguist-detectable=false
+*.hh.inf linguist-documentation=false
+*.hh.inf linguist-vendored=true
+*.hh.inf linguist-language=text
+*.hh.inf linguist-detectable=false
