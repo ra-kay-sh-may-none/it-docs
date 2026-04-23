@@ -1,4 +1,4 @@
-#. HH.INF Specification (Hash Hierarchical Inf):
+#. HHMD Standard Version 1.0 (Hash Hierarchical Markdown):
 	##. Core Structural Rules:
 		###. Line Initialization:
 			####. Every line must start with a level indicator consisting of hashes and a dot.
