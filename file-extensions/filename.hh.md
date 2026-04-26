@@ -1,8 +1,8 @@
-# HHMD (Hash Hierarchical Markdown) Full Specification
+# HHMD (.WITH FILE EXTENSION .hh.md) (Hash Hierarchical Markdown) Full Specification
 **Version:** 1.2
 **Official Extension:** `.hh.md`
 
-HHMD is a strictly hierarchical format designed for structured data where every line is a node in a tree.
+HHMD (.WITH FILE EXTENSION .hh.md) is a strictly hierarchical format designed for structured data where every line is a node in a tree.
 
 ## 1. Structural Fundamentals
 ### 1.1 Line Indicators

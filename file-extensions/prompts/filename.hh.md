@@ -1,4 +1,4 @@
-I am providing a specification for the "HHMD (Hash Hierarchical Markdown)" format: https://raw.githubusercontent.com/ra-kay-sh-may-none/it-docs/refs/heads/main/file-extensions/filename.hh.md
+I am providing a specification for the "HHMD (.WITH FILE EXTENSION .hh.md) (Hash Hierarchical Markdown)" format: https://raw.githubusercontent.com/ra-kay-sh-may-none/it-docs/refs/heads/main/file-extensions/filename.hh.md
 
 You must follow these rules with 100% strictness:
 1. THE DOT RULE: Every indicator MUST be hashes followed by a dot (e.g., #. or ##.).
@@ -8,6 +8,6 @@ You must follow these rules with 100% strictness:
 5. CODE FENCE: Use only [depth+1] hashes and a dot (e.g., ####.). All code inside must be indented one tab further than the fence.
 
 OUTPUT REQUIREMENT: 
-Always provide HHMD content inside a "text" code block. Do not use standard markdown formatting.
+Always provide HHMD (.WITH FILE EXTENSION .hh.md) content inside a "text" code block. Do not use standard markdown formatting.
 
 Confirm you understand that the depth is infinite (N-levels) and every line must end in punctuation.
